@@ -1,17 +1,12 @@
 # PriceOps Awesome List 
-
 > A list of resources about software pricing, and its implementation.
 
-
-## Contents
-
-- [PriceOps Awesome List](#priceops-awesome-list)
-  - [Contents](#contents)
-  - [Guides and Courses](#guides-and-courses)
-  - [Usage Based Pricing](#usage-based-pricing)
-  - [Pricing to unlock growth](#pricing-to-unlock-growth)
-  - [Other](#other)
-  - [Contribute](#contribute)
+# Contents
+- [Guides and Courses](#guides-and-courses)
+- [Usage Based Pricing](#usage-based-pricing)
+- [Pricing to unlock growth](#pricing-to-unlock-growth)
+- [Other](#other)
+- [Contribute](#contribute)
 
 
 ## Guides and Courses
