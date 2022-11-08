@@ -1,11 +1,11 @@
-# Software Pricing Awesome List 
+# PriceOps Awesome List 
 
 > A list of resources about software pricing, and its implementation.
 
 
 ## Contents
 
-- [Software Pricing Awesome List](#software-pricing-awesome-list)
+- [PriceOps Awesome List](#priceops-awesome-list)
   - [Contents](#contents)
   - [Guides and Courses](#guides-and-courses)
   - [Usage Based Pricing](#usage-based-pricing)
@@ -49,3 +49,6 @@
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+
+[def]: #guides-and-courses
