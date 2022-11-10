@@ -4,7 +4,7 @@
 # Contents
 - [Guides and Courses](#guides-and-courses)
 - [Usage Based Pricing](#usage-based-pricing)
-- [Pricing to unlock growth](#pricing-to-unlock-growth)
+- [Pricing to unlock growth](#the-role-of-pricing)
 - [Other](#other)
 - [Academic Papers](#academic-papers)
 - [Contribute](#contribute)
@@ -26,7 +26,7 @@
 - [6 Questions To Ask Before Adopting Usage-Based Pricing](https://adilaijaz.medium.com/6-questions-to-ask-before-adopting-usage-based-pricing-77bf2a669309)
 - [Why I Love Usage-Based Pricing](https://www.rdegges.com/2020/the-only-type-of-api-services-ill-use/)
 
-## Pricing to unlock growth
+## The role of pricing
 - [Turn your startup’s pricing strategy into a powerful growth lever](https://techcrunch.com/2022/07/11/turn-your-startups-pricing-strategy-into-a-powerful-growth-lever/)
 - [The Hidden World of Pricing: Uber, Trulia, Etsy, Superhuman](https://www.nfx.com/post/the-hidden-world-of-pricing)
 - [Pricing your SaaS product](https://www.lennysnewsletter.com/p/saas-pricing-strategy)
