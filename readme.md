@@ -6,6 +6,7 @@
 - [Usage Based Pricing](#usage-based-pricing)
 - [Pricing to unlock growth](#pricing-to-unlock-growth)
 - [Other](#other)
+- [Academic Papers](#academic-papers)
 - [Contribute](#contribute)
 
 
