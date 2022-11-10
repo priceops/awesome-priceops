@@ -40,6 +40,10 @@
 - [Socially Optimal Pricing of Cloud Computing Resources](https://webee.technion.ac.il/people/shimkin/PAPERS/Menache-CloudPricing-Conf2011.pdf) (.pdf)
 - [SaaS Pricing Strategy](https://www.priceintelligently.com/hubfs/Price-Intelligently-SaaS-Pricing-Strategy.pdf)
 
+## Academic Papers
+- [The influence of pricing strategies on corporate valuation](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=The+influence+of+pricing+strategies+on+corporate+valuation&btnG=) (PDF)
+- [A Systematic Literature Review of Dynamic Pricing Strategies](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4055122) 
+- [Pricing Decisions of FinTech Firms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3634459)
 
 ## Contribute
 
