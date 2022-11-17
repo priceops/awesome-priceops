@@ -1,6 +1,10 @@
 # PriceOps Awesome List 
 > A list of resources about software pricing, and its implementation.
 
+See [priceops.org](https://priceops.org) to learn more about PriceOps. 
+
+PRs are welcome! 
+
 # Contents
 - [Guides and Courses](#guides-and-courses)
 - [Usage Based Pricing](#usage-based-pricing)
@@ -50,5 +54,5 @@
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
-
-[def]: #guides-and-courses
+---
+Brought to you by [Tier.run](https://tier.run).
