@@ -20,6 +20,8 @@ PRs are welcome!
 - [How to Price Your SaaS Product: 9 Tips to Get Started](https://databox.com/how-to-price-saas-product)
 - [Bottom Up Pricing & Packaging: Let the User Journey Be Your Guide](https://a16z.com/2021/03/11/bottom-up-pricing-packaging-let-the-user-journey-be-your-guide/) 
 - [The Principals Of Pricing](https://www.principlesofpricing.com)
+- [Saas Pricing Models, Strategies, and Examples of Success](https://www.profitwell.com/recur/all/saas-pricing)
+- [Your Guide to SaaS Pricing Strategies With Examples](https://www.saasacademy.com/blog/saas-pricing-strategies)
 
 
 ## Usage Based Pricing
@@ -44,6 +46,9 @@ PRs are welcome!
 - [SaaS Pricing and Packaging: What to Do When Things Go Wrong (And How to Avoid Disaster)](https://openviewpartners.com/blog/saas-pricing-and-packaging-what-to-do-when-things-go-wrong-and-how-to-avoid-disaster/)
 - [Socially Optimal Pricing of Cloud Computing Resources](https://webee.technion.ac.il/people/shimkin/PAPERS/Menache-CloudPricing-Conf2011.pdf) (.pdf)
 - [SaaS Pricing Strategy](https://www.priceintelligently.com/hubfs/Price-Intelligently-SaaS-Pricing-Strategy.pdf)
+- [The Ultimate Guide to SaaS Pricing Models, Strategies & Psychological Hacks](https://www.cobloom.com/blog/saas-pricing-models)
+- [8 principles to guide your SaaS pricing strategy](https://www.atlassian.com/blog/strategy/8-principles-to-guide-your-saas-pricing-strategy)
+- [SaaS Pricing Tactics for a High-Inflation Environment](https://www.insightpartners.com/blog/saas-pricing-tactics-for-a-high-inflation-environment/)
 
 ## Academic Papers
 - [The influence of pricing strategies on corporate valuation](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=The+influence+of+pricing+strategies+on+corporate+valuation&btnG=) (PDF)
