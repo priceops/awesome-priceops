@@ -15,6 +15,7 @@ PRs are welcome!
 
 
 ## Guides and Courses
+- [The State of Usage Based Pricing by OpenView Partners](https://offers.openviewpartners.com/state-of-ubp-second-edition) [Direct Link](https://discord.com/channels/827703413989965844/827703480793301023/1078019772052152381)
 - [Bessemer Ventures Pricing Course](https://www.bvp.com/pricing-course)
 - [The Startup Pricing Journey](https://www.bvp.com/assets/media/the-startup-pricing-journey.pdf)
 - [How to Price Your SaaS Product: 9 Tips to Get Started](https://databox.com/how-to-price-saas-product)
@@ -22,7 +23,7 @@ PRs are welcome!
 - [The Principals Of Pricing](https://www.principlesofpricing.com)
 - [Saas Pricing Models, Strategies, and Examples of Success](https://www.profitwell.com/recur/all/saas-pricing)
 - [Your Guide to SaaS Pricing Strategies With Examples](https://www.saasacademy.com/blog/saas-pricing-strategies)
-
+- [Implementing Usage-Based Pricing: What Your Financial Teams Need to Know](https://openviewpartners.com/blog/implementing-usage-based-pricing-what-your-financial-teams-need-to-know/)
 
 ## Usage Based Pricing
 - [Five pros and four cons of usage-based pricing](https://www.bvp.com/atlas/five-pros-and-four-cons-of-usage-based-pricing-and-why-it-was-a-no-brainer-for-courier-s-ceo)
