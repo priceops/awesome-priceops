@@ -15,7 +15,6 @@ PRs are welcome!
 
 
 ## Guides and Courses
-- [The State of Usage Based Pricing by OpenView Partners](https://offers.openviewpartners.com/state-of-ubp-second-edition) [Direct Link](https://discord.com/channels/827703413989965844/827703480793301023/1078019772052152381)
 - [Bessemer Ventures Pricing Course](https://www.bvp.com/pricing-course)
 - [The Startup Pricing Journey](https://www.bvp.com/assets/media/the-startup-pricing-journey.pdf)
 - [How to Price Your SaaS Product: 9 Tips to Get Started](https://databox.com/how-to-price-saas-product)
@@ -26,6 +25,7 @@ PRs are welcome!
 - [Implementing Usage-Based Pricing: What Your Financial Teams Need to Know](https://openviewpartners.com/blog/implementing-usage-based-pricing-what-your-financial-teams-need-to-know/)
 
 ## Usage Based Pricing
+- [The State of Usage Based Pricing by OpenView Partners](https://offers.openviewpartners.com/state-of-ubp-second-edition) ([Direct Link](https://discord.com/channels/827703413989965844/827703480793301023/1078019772052152381))
 - [Five pros and four cons of usage-based pricing](https://www.bvp.com/atlas/five-pros-and-four-cons-of-usage-based-pricing-and-why-it-was-a-no-brainer-for-courier-s-ceo)
 - [A 4-Step Pricing Framework to Build Products With Scalable Unit Economics](https://review.firstround.com/dont-let-growth-hurt-your-margins-a-4-step-pricing-framework-to-build-products-with-scalable-unit-economics?utm_source=Firstround.com)
 - [Usage-Based Pricing Playbook: Customer Success Is A Mindset, Not Just a Job](https://openviewpartners.com/blog/usage-based-pricing-playbook-2/)
